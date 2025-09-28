@@ -4,8 +4,9 @@ Det här är ett konto jag har skapat eftersom jag går en utbildning i webbutve
 Egentligen ville jag mest gå den här utbildningen för att fatta mer om webben. Men nu när jag har börjat så är det ganska roligt att koda. Det är lite som att lösa korsord. Man får tänka, och så är det roligt att komma på hur man ska lösa ett problem.
 
 ## Om mig
-Som sagt, jag är ju lite hemlig av mig, och mest kommer jag nog använda detta konto för skolarbete.
+Som sagt, jag är ju lite hemlig av mig, och mest kommer jag nog använda detta konto för skolarbete. Men jag kan ju testa att lägga upp en bild av mitt bästa djur 😄.
 
+![Kalkonungar](bilder/tonaringar%20-%20kopia.jpg)
 
 <!--
 **JohannaHannahoJ/JohannaHannahoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
